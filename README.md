@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rigzyu
-- 👀 I’m interested in ...sofware develepment
-- 🌱 I’m currently learning ...html and css
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning ...FrontEnd Development
 - 💞️ I’m looking to collaborate on ...making the world easier
 - 📫 How to reach me ...origzy11111@gmail.com
 
