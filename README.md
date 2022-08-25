@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rigzyu
+- 👋 Hi, I’m Ori Richman 
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...FrontEnd Development
 - 💞️ I’m looking to collaborate on ...making the world easier
